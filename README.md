@@ -1,4 +1,4 @@
-# Addidas-Sales-Analysis
+# Adidas-Sales-Analysis
 
 ## Project Overview
 This project is an interactive Excel-based sales dashboard created using Adidas sales data. It provides a clear overview of sales performance and profitability to support data-driven decision-making.
@@ -34,5 +34,4 @@ The objective of this dashboard is to track key sales and profit indicators, ide
 4. Review the KPIs to understand revenue, volume, and profit trends
 
 ## Dashboard Preview
-<img width="1280" height="591" alt="image" src="https://github.com/user-attachments/assets/619cdece-b8a3-46a8-971e-b1192826fc49" />
-
+<img width="1701" height="784" alt="image036" src="https://github.com/user-attachments/assets/977e44a4-1863-4b38-932a-3c4c3f2a38cb" />

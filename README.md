@@ -32,6 +32,8 @@ The objective of this dashboard is to track key sales and profit indicators, ide
 2. Open it using Microsoft Excel  
 3. Use the filters and visuals to explore sales performance  
 4. Review the KPIs to understand revenue, volume, and profit trends
+5. [Adidas US Sales Analysis.xlsm](https://github.com/user-attachments/files/24768132/Adidas.US.Sales.Analysis.xlsm)
+
 
 ## Dashboard Preview
 <img width="1701" height="784" alt="image036" src="https://github.com/user-attachments/assets/977e44a4-1863-4b38-932a-3c4c3f2a38cb" />
